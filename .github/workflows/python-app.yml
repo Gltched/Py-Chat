@@ -34,4 +34,4 @@ jobs:
     - name: Run
       run: |
         pip install transformers
-        1.getting_started.py
+        python3 1.getting_started.py
