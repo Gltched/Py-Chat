@@ -26,4 +26,5 @@ jobs:
     - name: Run
       run: |
         pip install transformers
+        pip install torch
         python3 1.getting_started.py
